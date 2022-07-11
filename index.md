@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to Script Praise!
 
-You can use the [editor on GitHub](https://github.com/allahuphetic/ScriptPraiser.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use Script praise to make/or find scripts!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+whenever a script glitches or a script you make glitches then contact the creator!!
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Script praise has been hardly worked on by stummy/tubers93!
 
 ```markdown
-Syntax highlighted code block
-
+Make sure to praise allah : )
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- allah
+- akbar
 
-1. Numbered
-2. List
+1. script
+2. praise
 
-**Bold** and _Italic_ and `Code` text
+**Tutorials on how to fix error 295!!** and _allah_ `21395` for a key!
 
-[Link](url) and ![Image](src)
+https://www.ScriptPraiser.github.io!!
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+script 1.
+infinite yield admin: loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+script 2.
+annoy gui: 
+loadstring(game:HttpGet("https://pastebin.com/raw/1cHdCvTF"))()
+
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allahuphetic/ScriptPraiser.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+were working on a new executor which can use krnl scripts or arceus x scripts!!
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+adding more scripts later : )
